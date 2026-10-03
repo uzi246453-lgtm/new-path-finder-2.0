@@ -1,0 +1,6 @@
+{
+  "name": "PathMatch Careers - Verified Job & Opportunity Discovery",
+  "description": "Find verified, real-time jobs matching your education, degree, technical skills, and specialized domain across LinkedIn, Naukri, Indeed, Internshala, Unstop, and official portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
